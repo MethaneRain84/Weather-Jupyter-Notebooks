@@ -2,4 +2,4 @@ As a way for me to try and easliy pull the maps from the differetn agencys webpa
 
 The code is very robust, most of the time went into actually hard coding the web address and file name I was going to call the saved image.
 
-![Alt text](/Users/chowdahead/Desktop/Weather_Blog/01_17/WPC_3_Day Forecast_ 17 January 2019 06/25Z.png?raw=true "Title")
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
