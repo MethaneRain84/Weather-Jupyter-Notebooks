@@ -7,6 +7,6 @@ https://nbviewer.jupyter.org/github/MethaneRain/Weather-Jupyter-Notebooks/tree/m
 
 
 
-![Jets](https://github.com/MethaneRain/Weather-Jupyter-Notebooks/blob/master/MetPy_Unidata%20Examples/Sample%20Maps/RESIZE_250mb_Heights_Winds_2019_01_18_12Z.png)
+![Jets](https://github.com/MethaneRain/Weather-Jupyter-Notebooks/blob/master/MetPy_Unidata%20Examples/Sample%20Maps/RESIZE_250mb_Heights_Winds_2019_01_18_12Z.png,https://github.com/MethaneRain/Weather-Jupyter-Notebooks/blob/master/MetPy_Unidata%20Examples/Sample%20Maps/RESIZE_Sounding_DNR_20190118.png)
 
 ![Sounding](https://github.com/MethaneRain/Weather-Jupyter-Notebooks/blob/master/MetPy_Unidata%20Examples/Sample%20Maps/RESIZE_Sounding_DNR_20190118.png)
