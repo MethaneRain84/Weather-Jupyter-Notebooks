@@ -7,4 +7,4 @@ https://nbviewer.jupyter.org/github/MethaneRain/Weather-Jupyter-Notebooks/tree/m
 
 
 
-![alt text](https://github.com/MethaneRain/Weather-Jupyter-Notebooks/blob/master/MetPy_Unidata%20Examples/Sample%20Maps/250mb_Heights_Winds_2019_01_18_12Z.png)
+![alt text](https://github.com/MethaneRain/Weather-Jupyter-Notebooks/blob/master/MetPy_Unidata%20Examples/Sample%20Maps/RESIZE_250mb_Heights_Winds_2019_01_18_12Z.png)
