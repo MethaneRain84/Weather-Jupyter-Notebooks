@@ -1,7 +1,7 @@
 # Weather-Jupyter-Notebooks
 Collection of my Jupyter Weather Notebooks
 
-Sometimes the notebookos aren't showing in GitHub so here are some links vis https://nbviewer.jupyter.org/:
+Sometimes the notebookos aren't showing in GitHub so here are some links via https://nbviewer.jupyter.org/:
 
 * https://nbviewer.jupyter.org/github/MethaneRain/Weather-Jupyter-Notebooks/tree/master/MetPy_Unidata%20Examples/
 
