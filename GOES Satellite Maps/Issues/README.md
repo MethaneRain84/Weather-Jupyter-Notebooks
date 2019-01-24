@@ -1,4 +1,4 @@
-Trying to be a professional coder and address my problems in a logical manner.
+Trying to be a professional coder and address my problems in a logical manner, here are the problems I'm experiencing.
 
 * GOES-16 Lambert Conformal Projection misalignment (west coast)
 
