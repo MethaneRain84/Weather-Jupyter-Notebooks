@@ -1,5 +1,4 @@
-A lot of external work from some very talented people (I have tried to give all credit where credit is due on the various pieces
-) plus a lot of my own piecing together has manifested into plotting of GOES 16 and 17 satellite images for: 
+A lot of external work from some very talented people (I have tried to give all credit where credit is due on the various pieces) plus a lot of my own piecing together has manifested into plotting of GOES 16 and 17 satellite images for: 
 
 * Visible - ch 2
 * Water Vapor - ch 9
