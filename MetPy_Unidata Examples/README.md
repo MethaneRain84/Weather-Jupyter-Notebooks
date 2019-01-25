@@ -2,7 +2,7 @@ Thanks to the hard work over at Unidata, the devs have made some amazing example
 
 I made all the examples run in similar fashions and all have the exact latitude/longitude extents and map projection so all can easily be comparable when looking at several maps. 
 
-'   # Add state boundaries to plot
+
     states_provinces = cfeature.NaturalEarthFeature(category='cultural',
                                                     name='admin_1_states_provinces_lakes',
                                                     scale='50m', facecolor='none')
