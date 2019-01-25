@@ -6,8 +6,7 @@ I made all the examples run in similar fashions and all have the exact latitude/
     states_provinces = cfeature.NaturalEarthFeature(category='cultural',
                                                     name='admin_1_states_provinces_lakes',
                                                     scale='50m', facecolor='none')
-    ax.add_feature(states_provinces, edgecolor='black', linewidth=1)
-'
+    ax.add_feature(states_provinces, edgecolor='black', linewidth=1)'
         '
 
 
