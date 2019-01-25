@@ -5,14 +5,9 @@ I made all the examples run in similar fashions and all have the exact latitude/
 '# Add state boundaries to plot
     states_provinces = cfeature.NaturalEarthFeature(category='cultural',
                                                     name='admin_1_states_provinces_lakes',
-                                                    scale='50m', facecolor='none')'
-    'ax.add_feature(states_provinces, edgecolor='black', linewidth=1)'
-
-    '# Add country borders to plot
-    country_borders = cfeature.NaturalEarthFeature(category='cultural',
-                                                   name='admin_0_countries',
-                                                   scale='50m', facecolor='none')
-    ax.add_feature(country_borders, edgecolor='black', linewidth=1)'
+                                                    scale='50m', facecolor='none')
+    ax.add_feature(states_provinces, edgecolor='black', linewidth=1)
+'
         '
 
 
